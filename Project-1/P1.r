@@ -25,5 +25,3 @@ abline(v=(quantile(mydata,0.35,type=6)), col="purple", lwd=2, lty=4)
 # adds curve
 hist(mydata,col="dodgerblue", breaks=c(22:36), main="R Assignment 1", xlab="Jesse Maki", p
 lines(density(mydata ), col="red")
-
-#
