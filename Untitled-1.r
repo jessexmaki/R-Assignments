@@ -1,8 +1,3 @@
----
-title: "R Assignment"
-output: github_document
----
-
 ```{r setup, include=FALSE}
 # choose your unique seednumber to generate data, e.g. UFID
 set.seed(48571578) # generate data
